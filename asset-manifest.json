@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/space-launch-react/static/css/main.0fe7d86d.css",
+    "main.js": "/space-launch-react/static/js/main.8b2bd643.js",
+    "index.html": "/space-launch-react/index.html",
+    "main.0fe7d86d.css.map": "/space-launch-react/static/css/main.0fe7d86d.css.map",
+    "main.8b2bd643.js.map": "/space-launch-react/static/js/main.8b2bd643.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe7d86d.css",
+    "static/js/main.8b2bd643.js"
+  ]
+}
